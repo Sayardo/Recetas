@@ -1,0 +1,55 @@
+h1 {
+
+color: red  ;
+
+}
+
+h2 {
+
+color:blueviolet;
+
+}
+
+h3  {
+
+color:crimson;
+
+}
+
+.lista1 {
+
+font-size: medium;
+font-weight: 200;
+list-style-type: circle;
+color: black;
+
+}
+
+.lista2 {
+
+font-size: small;
+font-weight: 100;
+height: min-content;
+color: black;
+}
+
+img {
+    display: block; 
+    margin: 0 auto; 
+    max-width: 100%; 
+    border-radius: 10px; 
+  } 
+
+body {
+    background-color:aqua; 
+    color: white; 
+    text-align: center; 
+  }
+
+  article {
+    background-color: white; 
+    padding: 20px; 
+    margin: 20px auto; 
+    max-width: 600px; 
+    border-radius: 10px; 
+  }
